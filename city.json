@@ -16,7 +16,7 @@
     {
         "id": "03",
         "name": "Afyonkarahisar",
-        "visited": false,
+        "visited": true,
         "date": "",
         "note": []
     },
@@ -128,7 +128,7 @@
     {
         "id": "19",
         "name": "Çorum",
-        "visited": false,
+        "visited": true,
         "date": "",
         "note": []
     },
@@ -443,7 +443,7 @@
     {
         "id": "64",
         "name": "Uşak",
-        "visited": false,
+        "visited": true,
         "date": "",
         "note": []
     },
